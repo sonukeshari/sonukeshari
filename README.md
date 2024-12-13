@@ -41,8 +41,3 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sonukeshari"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sonukeshari" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukeshari&show_icons=true&locale=en&layout=compact" alt="sonukeshari" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonukeshari&show_icons=true&locale=en" alt="sonukeshari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonukeshari&" alt="sonukeshari" /></p>
