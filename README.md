@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sonu!</h1>
 <h3 align="center">CSE graduate with learning enthusiasm and a strong foundation in data structures and algorithms. Demonstrated ability to adapt quickly to new technologies. Completed impactful projects, showcasing problem-solving skills and a results-driven mindset. Eager to apply my technical expertise and contribute to a dynamic software development team</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukeshari&show_icons=true&locale=en&layout=compact" alt="sonukeshari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonukeshari&show_icons=true&locale=en" alt="sonukeshari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonukeshari&" alt="sonukeshari" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sonukeshari&label=Profile%20views&color=0e75b6&style=flat" alt="sonukeshari" /> </p>
 
