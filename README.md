@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kesharisonu9@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/sonukeshari/Resume/blob/main/Sonu%20Kumar%20Keshari%20(3)%20(1).pdf](https://github.com/sonukeshari/Resume/blob/main/Sonu%20Kumar%20Keshari%20(3)%20(1).pdf)
+- 📄 Know about my experiences [](https://github.com/sonukeshari/Resume/blob/main/Sonu%20Kumar%20Keshari%20(3)%20(1).pdf)
 
 - ⚡ Fun fact **एउटा हातमा कफी, अर्को हातमा कोड। रचनात्मकता बढाउँदै, एक लाइन कोड र एक सिप कफीसँगै! ☕💻✨ मध्यरातमा डिबगिङ गर्दै, सपना पूरा गर्दै! 🌌...Coffee in one hand, code in the other. Fueling creativity, one line and one sip at a time! Debugging at midnight, ☕💻✨**
 
